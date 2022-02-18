@@ -1,6 +1,7 @@
 # Change these first
 owner: gscsre # Your GitHub organization or username, where this repository lives
 repo: statuspage # The name of this repository
+user-agent: gscsre
 
 sites:
   - name: San Cristobal
@@ -16,6 +17,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Prod
