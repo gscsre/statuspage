@@ -10,8 +10,20 @@ sites:
     url: https://soportepas.sancristobal.com.ar
   - name: San Cristobal Retiro
     url: https://www.sancristobalretiro.com.ar
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: San Cristobal Caja Mutual 
+    url: https://www.sancristobalcaja.com.ar
+  - name: San Cristobal Viajes y Turismos
+    url: https://www.sancristobalturismo.com.ar/institucional
+  - name: San Cristobal Uruguay
+    url: https://www.sancristobalseguros.com.uy/institucional
+  - name: San Cristóbal Servicios Financieros 
+    url: https://www.sancristobalsf.com.ar
+    __dangerous__disable_verify_peer: true
+  - name: Asociart
+    url: https://www.asociart.com.ar
+  - name: Asociart Servicios
+    url: https://www.asociartservicios.com.ar
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
