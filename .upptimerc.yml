@@ -37,7 +37,7 @@ status-website:
   introMessage: Hope is not a strategy
   navbar:
     - title: Status
-      href: /
+      href: /statuspage 
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
