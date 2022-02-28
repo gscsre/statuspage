@@ -130,7 +130,7 @@
     "url": "https://www.asociart.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.asociart.com.ar",
     "slug": "asociart",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 1526,
     "timeMonth": 1345,
     "timeYear": 1345,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Asociart Servicios",
