@@ -150,9 +150,9 @@
     "url": "https://www.asociartservicios.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.asociartservicios.com.ar",
     "slug": "asociart-servicios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,6 +161,8 @@
     "timeWeek": 564,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   }
 ]
