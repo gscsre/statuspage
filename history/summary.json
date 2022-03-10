@@ -40,9 +40,9 @@
     "url": "https://www.sancristobalretiro.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.sancristobalretiro.com.ar",
     "slug": "san-cristobal-retiro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 6953,
     "timeMonth": 7673,
     "timeYear": 7673,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   },
   {
     "name": "San Cristobal Caja Mutual",
@@ -151,11 +153,11 @@
     "icon": "https://favicons.githubusercontent.com/www.asociartservicios.com.ar",
     "slug": "asociart-servicios",
     "status": "up",
-    "uptime": "65.00%",
+    "uptime": "65.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.67%",
-    "uptimeMonth": "65.00%",
-    "uptimeYear": "65.00%",
+    "uptimeWeek": "42.89%",
+    "uptimeMonth": "65.82%",
+    "uptimeYear": "65.82%",
     "time": 574,
     "timeDay": 536,
     "timeWeek": 604,
