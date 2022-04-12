@@ -1,7 +1,7 @@
 url: https://www.sancristobalcaja.com.ar
-status: up
-code: 200
-responseTime: 6608
-lastUpdated: 2022-04-11T23:41:53.029Z
+status: down
+code: 500
+responseTime: 2827
+lastUpdated: 2022-04-12T10:59:35.902Z
 startTime: Sat Feb 19 2022 23:48:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
