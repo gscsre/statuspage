@@ -21,6 +21,7 @@ sites:
     __dangerous__disable_verify_peer: true
   - name: Asociart
     url: https://www.asociart.com.ar
+    __dangerous__disable_verify_peer: true
   - name: Asociart Servicios
     url: https://www.asociartservicios.com.ar
     __dangerous__disable_verify_peer: true
