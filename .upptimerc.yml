@@ -4,6 +4,8 @@ repo: statuspage # The name of this repository
 user-agent: gscsre
 
 sites:
+  - name: Grupo San Cristobal
+    url: https://www.gruposancristobal.com.ar
   - name: San Cristobal
     url: https://www.sancristobal.com.ar/institucional
   - name: Soporte Pas
